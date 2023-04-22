@@ -1,5 +1,7 @@
 # a-simple-word-prediction-model
 一个用pytorch写的单词预测模型
+接受词向量输入，输出预测的单词
+
 朴实无华 甚至不接受输入
 输入和输出都在代码里
 
